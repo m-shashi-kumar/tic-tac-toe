@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+
+.container{
+
+    height: 70vmin;
+    width: 70vmin;
+    gap:1.5rem;
+
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8vh;
+}
+.box{
+    float: left;
+    text-align: center;
+    height: 21vmin;
+    width: 21vmin;
+    border-radius: 5vmin;
+}
+div{
+    text-align: center;
+}
+#reset{
+    margin:auto;
+    text-align:center;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    color:black;
+    font-size: 18vmin;
+    
+}
+#reset{
+    font-size: 4vmin;
+    border-radius: 5vmin;
+    padding: 2vmin;
+}
